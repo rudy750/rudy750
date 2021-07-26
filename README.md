@@ -4,6 +4,15 @@
                          [ Developer, Development leader, Developer advocate, Develop for fun ]
 ```
 
+- Over twenty years experience as a professional developer. 
+
+- Focused on delivering well architected / component based web applications. Big fan of JAMStack and serverless API.
+
+- Proven leader and developer on large applications. 
+
+- Experienced in modernizing development process for Enterprises
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudy750&show_icons=true&locale=en&layout=compact" alt="rudy750" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudy750&show_icons=true&locale=en" alt="rudy750" /></p>
