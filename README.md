@@ -6,7 +6,9 @@
 
 - Over twenty years experience as a professional developer. 
 
-- Focused on delivering well architected / component based web applications. Big fan of JAMStack and serverless API.
+- Focused on delivering well architected / component based web applications [Micro frontend](https://martinfowler.com/articles/micro-frontends.html). 
+
+- Big fan of JAMStack and serverless API.
 
 - Proven leader and developer on large applications. 
 
