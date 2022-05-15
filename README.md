@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Rudy 👋</h1>
-# 💫About Me :
-
+<h2>💫About Me :</h2>
 
 ```javascript    
                          [ Developer, Development leader, Developer advocate, Develop for fun ]
