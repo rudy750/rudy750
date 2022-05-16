@@ -4,16 +4,23 @@
 ```javascript    
                          [ Developer, Development leader, Developer advocate, Develop for fun ]
 ```
-
-- Over twenty years experience as a professional developer. 
-
-- Focused on delivering well architected / component based web applications [Micro frontend](https://martinfowler.com/articles/micro-frontends.html). 
-
-- Big fan of JAMStack and serverless API.
-
-- Proven leader and developer on large applications. 
-
-- Experienced in modernizing development process for Enterprises
+```javascript
+/** 
+* Over twenty years of fun as a professional developer. 
+*
+* Focused on delivering well architected / component based web applications [Micro frontend](https://martinfowler.com/articles/micro-frontends.html). 
+*
+* Big fan of the web, cloud, JAMStack, and serverless API's.
+*
+* Proven leader and developer on large applications. 
+*
+* Experienced in modernizing development process for Enterprises.
+*
+*@author Rudy Sarmiento
+*@returns Principal Software Development Engineer
+*@version 2.0.0-beta
+*/
+```
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudy-sarmiento) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3727729/rudy750) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rudy750)
