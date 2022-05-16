@@ -2,7 +2,7 @@
 <h2>💫About Me :</h2>
 
 ```javascript    
-                         [ Developer, Development leader, Developer advocate, Develop for fun ]
+                      [ Developer, Development leader, Developer advocate, Develop for fun ]
 ```
 ```javascript
 /** 
