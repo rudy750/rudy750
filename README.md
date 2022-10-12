@@ -17,8 +17,8 @@
 * Experienced in modernizing development process for Enterprises.
 *
 *@author Rudy Sarmiento
-*@returns Principal Software Development Engineer
-*@version 2.0.0-beta
+*@returns Senior Customer Success Architect @GitHub
+*@version 3.0.0
 */
 ```
 
