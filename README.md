@@ -1,6 +1,4 @@
 ![rudy750's GitHub Banner](https://raw.githubusercontent.com/rudy750/rudy750/main/banner.png)
-<h1 align="center">Hi, I'm Rudy 👋</h1>
-<h2>💫About Me :</h2>
 
 ```javascript    
                        [ Developer, Development leader, Developer advocate, Develop for fun ]
